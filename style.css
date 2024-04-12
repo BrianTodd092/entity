@@ -1,0 +1,15 @@
+.tree {
+
+  position:relative;
+  display:none;
+  margin-left: 5%;
+  font-size: 5rem;
+}
+.snowman {
+
+  position:relative;
+  display:none;
+  font-size: 10rem;
+  margin-left: 5%;
+  color:green;
+}
